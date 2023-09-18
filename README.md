@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**PelnHigh/PelnHigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - My name is Tom Peng.U can call me Tom or Peln
+ - 28 years old
+ - I’ve graduated from computer science
+ - I’d developed or helped to develop dozens of websites
+ - Favorite language:TypeScript and C#
+ - Favorite frame:Angular
+ - Proficient in using various cross-platform applications（Cordova Ionic Uniapp）
+ - Of course, My job is web development engineer（Html Css Js）
 
-Here are some ideas to get you started:
+### 🤔What am I doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I‘m designing and maintaining a logistics industry management system
+
+### 😄How to contact me
+- GMAIL:pelnhigh@gmail.com
+- WeChat:Tom____Wechat
