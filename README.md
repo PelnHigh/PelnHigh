@@ -14,4 +14,3 @@ I‘m designing and maintaining a logistics industry management system
 
 ### 😄How to contact me
 - GMAIL:pelnhigh@gmail.com
-- WeChat:Tom____Wechat
