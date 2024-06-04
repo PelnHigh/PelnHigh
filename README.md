@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - My name is Tom Peng.U can call me Tom or Peln
+ - My name is Tom Peng.U can call me Tom
  - I’ve graduated from computer science
  - I’d developed or helped to develop dozens of websites
  - Favorite language:TypeScript and C#
